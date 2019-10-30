@@ -1,5 +1,7 @@
 # loading_text
 
+![](https://raw.githubusercontent.com/tkt989/flutter-loading-text/master/image.gif)
+
 A new Flutter package project.
 
 ## Getting Started
